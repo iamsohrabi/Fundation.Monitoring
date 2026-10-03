@@ -5,6 +5,13 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    
+    <PackageId>Fundation.Monitoring</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mehrdad Sohrabi</Authors>
+    <Description>Monitoring extensions for ASP.NET Core with health checks, Prometheus metrics, and OpenTelemetry tracing/export.</Description>
+    <PackageOutputPath>../Packages</PackageOutputPath>
+
   </PropertyGroup>
 
   <ItemGroup>
